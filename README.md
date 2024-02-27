@@ -1,6 +1,6 @@
 ## Hi there, I'm Muhammed Yasser Muslim 👋👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A10CA&size=21&center=true&lines=I'm+a+FullStack+Web++Developer;and+Desktop+application+;and+Mobile+application+;Java+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A10CA&size=21&center=true&lines=I'm+a+Back-end++Developer;Java+Software+Engineer)](https://git.io/typing-svg)
 
 
 
@@ -10,16 +10,15 @@
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with me 
 
 
-[<img align="left" alt="Akram Kasem" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
-[<img align="left" alt="Akram Kasem | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Akram Kasem  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Muhammed Yasser" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+[<img align="left" alt="Muhammed Yasser  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 
 ## Interesting Facts !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I love Problem Solving ans Application Development !!!
-- 🚀 **visit my CV @ [Akram Kasem](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/CV.pdf)**
+- 🚀 **visit my CV @ [Muhammed Yasser](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/CV.pdf)**
 - 🌱 currently Playing with Web Dev 
 - 📫 How to reach me: [muhmdyasser0@gmail.com](mailto:muhmdyasser0@gmail.com)
 - 🤔 I’m looking to collaborate on Full stack web development
@@ -124,8 +123,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Akramkasem&show_icons=true&theme=tokyonight&locale=en" alt="Akram Kasem" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akramkasem&show_icons=true&theme=radical&locale=en&layout=compact" alt="Akram Kasem" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MuhammedYasserMuslim&show_icons=true&theme=tokyonight&locale=en" alt="Muhammed Yasser" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedYasserMuslim&show_icons=true&theme=radical&locale=en&layout=compact" alt="Muhammed Yasser" /></td>
     </tr>
 </table>
 
@@ -133,11 +132,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedYasserMuslim&theme=radical&" alt="gowthamrajk" /></p>
 </div>
 
-<details> 
-  <summary><b> 📈 Activity Graph </b></summary>
-  <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MuhammedYasserMuslim&theme=github" alt="gowthamrajk's github activity graph"/>
-</details>
+
 
 
 ---------------------------------------------------------------------------------------------------------------
