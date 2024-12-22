@@ -18,7 +18,7 @@
 ## Interesting Facts !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I love Problem Solving ans Application Development !!!
-- 🚀 **visit my CV @ [Muhammed Yasser](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/CV.pdf)**
+- 🚀 **visit my CV @ [Muhammed Yasser](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/Muhammed-Yasser-Muslim_Resume.pdf)**
 - 🌱 currently Playing with Web Dev 
 - 📫 How to reach me: [muhmdyasser0@gmail.com](mailto:muhmdyasser0@gmail.com)
 - 🤔 I’m looking to collaborate on Full stack web development
@@ -98,7 +98,7 @@
 ## 🤔 More About Me 
 
 
-### To know more about me, my achievements, visiti my [CV](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/CV.pdf) and my [LinkedIn Profile](https://www.linkedin.com/in/muhammad-yasser-9b2736251/)
+### To know more about me, my achievements, visiti my [CV](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/Muhammed-Yasser-Muslim_Resume.pdf) and my [LinkedIn Profile](https://www.linkedin.com/in/muhammad-yasser-9b2736251/)
 
 ---
 
