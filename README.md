@@ -18,7 +18,7 @@
 ## Interesting Facts !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I love Problem Solving ans Application Development !!!
-- 🚀 **visit my CV @ [Muhammed Yasser](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/Muhammed-Yasser-Muslim_Resume.pdf)**
+- 🚀 **visit my CV @ [Muhammed Yasser](https://github.com/M0hammedYasser/M0hammedYasser/blob/main/Muhammed-Yasser-Muslim_Resume.pdf)**
 - 🌱 currently Playing with Web Dev 
 - 📫 How to reach me: [muhmdyasser0@gmail.com](mailto:muhmdyasser0@gmail.com)
 - 🤔 I’m looking to collaborate on Full stack web development
@@ -98,25 +98,25 @@
 ## 🤔 More About Me 
 
 
-### To know more about me, my achievements, visiti my [CV](https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/Muhammed-Yasser-Muslim_Resume.pdf) and my [LinkedIn Profile](https://www.linkedin.com/in/muhammad-yasser-9b2736251/)
+### To know more about me, my achievements, visiti my [CV](https://github.com/M0hammedYasser/M0hammedYasser/blob/main/Muhammed-Yasser-Muslim_Resume.pdf) and my [LinkedIn Profile](https://www.linkedin.com/in/muhammad-yasser-9b2736251/)
 
 ---
 
 ## 📈 Github Metrics 
 
-![](https://metrics.lecoq.io/MuhammedYasserMuslim)  
+![](https://metrics.lecoq.io/M0hammedYasser)  
 
 ## 📈 Github Stats
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MuhammedYasserMuslim&show_icons=true&theme=tokyonight&locale=en" alt="Muhammed Yasser" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedYasserMuslim&show_icons=true&theme=radical&locale=en&layout=compact" alt="Muhammed Yasser" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=M0hammedYasser&show_icons=true&theme=tokyonight&locale=en" alt="Muhammed Yasser" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0hammedYasser&show_icons=true&theme=radical&locale=en&layout=compact" alt="Muhammed Yasser" /></td>
     </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedYasserMuslim&theme=radical&" alt="gowthamrajk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M0hammedYasser&theme=radical&" alt="gowthamrajk" /></p>
 </div>
 
 
@@ -131,6 +131,6 @@
 </div>
 
 
-[website1]:https://github.com/MuhammedYasserMuslim/MuhammedYasserMuslim/blob/main/CV.pdf
-[website]: https://github.com/MuhammedYasserMuslim
+[website1]:https://github.com/M0hammedYasser/M0hammedYasser/blob/main/CV.pdf
+[website]: https://github.com/M0hammedYasser
 [linkedin]: https://www.linkedin.com/in/muhammad-yasser-9b2736251/
